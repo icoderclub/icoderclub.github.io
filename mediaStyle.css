@@ -1,0 +1,23 @@
+/* This Media query is for index.php page */
+/* @media screen and (max-width: 1080px) {
+    #headerleftcontainer {width: 500px; margin: auto;}
+    #headerrightcontainer {display: none;}
+  }
+
+@media  (min-width: 992px) and (max-width: 1060px) {
+    .navbar-brand {display: none;}
+}
+
+@media screen and (min-width: 600px) {
+    .row {justify-content: center;}
+    #loginUsername { display: inline-block; padding: 10px 0px; text-align: center;}
+    #logoutBtn {margin: 10px 3px;}
+} */
+
+
+/* This Media query is for topic.php page */
+
+/* @media  screen and (max-width: 992px) {
+    #topicContainer {width: 100vw; margin: 0px;}
+
+} */

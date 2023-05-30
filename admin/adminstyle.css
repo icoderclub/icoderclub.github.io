@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.o-container{
+    width: 100% !important;
+    height: 900px !important;
+}
+
+.o-left{
+    width: 280px !important;
+}
+
+.o-right{
+    width: 100% !important;
+}
